@@ -6,7 +6,7 @@ This project was created by Zeki, a student of Nokyam's divine language, with th
 
 # About Nokyam's language
 As Zeki, student of the language for over 5 years, says:
-> It's a deep language, with the fewest amount of characters you can express your whole being in one character of truth.
+> It's a deep language, with the fewest amount of characters you can express your whole being, even in only one character of truth.
  
 Therefore it requires extensive study and years of practice to master the first steps of converting from your gutural language to this elevated language.
 
