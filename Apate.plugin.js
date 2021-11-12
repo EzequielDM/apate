@@ -1,8 +1,8 @@
 /**
  * @name Apate
  * @author TheGreenPig, fabJunior, Aster
- * @source https://gist.github.com/EzequielDM/af9e208f8810f7a5ad171d9af07639b0
- * @updateUrl https://gist.githubusercontent.com/EzequielDM/af9e208f8810f7a5ad171d9af07639b0/raw/f3db17ea06b7e2597fb7cad5209b5c06d792db26/Apate.plugin.js
+ * @source https://github.com/EzequielDM/apate
+ * @updateUrl https://raw.githubusercontent.com/EzequielDM/apate/main/Apate.plugin.js
  * @authorLink https://github.com/EzequielDM
  */
 const request = require("request");
@@ -51,9 +51,8 @@ module.exports = (() => {
       version: "1.4.8",
       description:
         "Apate ;;; lets you hide your messages the way they're supposed to be hidden, with ;;;",
-      github_raw:
-        "https://gist.githubusercontent.com/EzequielDM/af9e208f8810f7a5ad171d9af07639b0/raw/f3db17ea06b7e2597fb7cad5209b5c06d792db26/Apate.plugin.js",
-      github: "https://gist.github.com/EzequielDM/af9e208f8810f7a5ad171d9af07639b0",
+      github_raw: "https://raw.githubusercontent.com/EzequielDM/apate/main/Apate.plugin.js",
+      github: "https://github.com/EzequielDM/apate",
     },
     changelog: [
       {
