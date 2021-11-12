@@ -1,6 +1,6 @@
 # Apate ;;;; edition
 A sub-version of Apate that converts empty messages into a sequence of randomly selected semicolons and hyphens to match the ancient communication method created by the god Nokyam in the Dawn Era.
-It's said that Nokyam has the ability to read the intention of the writer by the pseudo-randomness of the writer's and understand even the most complex sentences from just a single semicolon.
+It's said that Nokyam has the ability to read the intention of the writer by the pseudo-randomness of the writer's will and understand even the most complex sentences from just a single semicolon.
 
 This project was created by Zeki, a student of Nokyam's divine language, with the intention of helping himself (and others that may come to use this futurely) to speak faster with the legend Nokyam himself.
 
